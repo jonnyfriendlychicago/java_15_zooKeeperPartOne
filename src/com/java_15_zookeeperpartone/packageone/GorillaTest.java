@@ -10,7 +10,7 @@ public class GorillaTest {
 		
 //		gorillaObj1.displayEnergyLevel(); 
 		
-		gorillaObj1.throwSomething("dodgeball");
+		gorillaObj1.throwSomething("dodgeball-JRF-TAgray");
 		gorillaObj1.throwSomething("tree branch");
 		gorillaObj1.throwSomething("something bad");
 		
